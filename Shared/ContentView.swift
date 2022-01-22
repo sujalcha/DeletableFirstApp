@@ -12,6 +12,7 @@ import MapKit
 //second commit
 // third commit
 //first branch commit
+// 2nd branch from master commit
 struct ContentView: View {
     var body: some View {
         VStack {
